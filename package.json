@@ -54,7 +54,7 @@
     "babel-eslint": "^10.1.0",
     "babel-jest": "^26.0.1",
     "benchmark": "^2.1.4",
-    "bili": "^4.10.0",
+    "bili": "^5.0.5",
     "chalk": "^4.0.0",
     "dayjs": "^1.8.26",
     "eslint": "^7.1.0",
